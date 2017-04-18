@@ -1,9 +1,9 @@
 <ul class="navul" 　 itemscope itemtype="http://www.schema.org/SiteNavigationElement">
 	<li itemprop="name"><a itemprop="url" href="/" title="歐洲上網、韓國、日本上網首選173wifi">&nbsp;&nbsp;&nbsp;&nbsp;首頁&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
 	<li itemprop="name" class="zl"><a itemprop="url" itemprop="url" href="Process.aspx" title="租貸流程">租賃流程</a></li>
-	<li class="js"><a itemprop="url" href="Products.aspx" title="網絡分享器"><span itemprop="name" >網絡分享器</span></a>
+	<li class="js" itemprop="name" content="網路分享器"><a itemprop="url" href="Products.aspx" title="網絡分享器">網絡分享器</a>
 		<ul class="navbox" style="width:100px;">
-			<li><a itemprop="url" href="Products.aspx?dq=dq1" title=""><span itemprop="name">亞洲</span></a>
+			<li itemprop="name" content="亞洲"><a itemprop="url" href="Products.aspx?dq=dq1" title="">亞洲</a>
 				<ul>
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq1&mmd=日本,&zk=0" title="日本上網WIFI">日本上網WIFI</a></li>
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq1&mmd=韓國,&zk=0" title="韓國上網WIFI">韓國上網WIFI</a></li>
@@ -13,7 +13,7 @@
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq1" title="">其他地區</a></li>
 				</ul>
 			</li>
-			<li><a itemprop="url" href="Products.aspx?dq=dq2" title=""><span itemprop="name">歐洲</span></a>
+			<li itemprop="name" content="歐洲"><a itemprop="url" href="Products.aspx?dq=dq2" title="">歐洲</a>
 				<ul>
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq2&mmd=義大利,&zk=0" title="義大利上網WIFI">義大利上網WIFI</a></li>
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq2&mmd=法國,&zk=0" title="法國上網WIFI">法國上網WIFI</a></li>
@@ -23,7 +23,7 @@
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq2" title="其他地區">其他地區</a></li>
 				</ul>
 			</li>
-			<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq3" title=""><span itemprop="name">美洲</span></a>
+			<li itemprop="name" content="美洲"><a itemprop="url" href="Products.aspx?dq=dq3" title="">美洲</a>
 				<ul>
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq3&mmd=美國,&zk=0" title="美國上網WIFI">美國上網WIFI</a></li>
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq3&mmd=加拿大,&zk=0" title="加拿大上網WIFI">加拿大上網WIFI</a></li>
@@ -33,7 +33,7 @@
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq3" title="">其他地區</a></li>
 				</ul>
 			</li>
-			<li><a itemprop="url" href="Products.aspx?dq=dq4" title=""><span itemprop="name">大洋洲</span></a>
+			<li itemprop="name" content="大洋洲"><a itemprop="url" href="Products.aspx?dq=dq4" title="">大洋洲</a>
 				<ul>
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq4&mmd=澳洲,&zk=0" title="澳洲上網WIFI">澳洲上網WIFI</a></li>
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq4&mmd=紐西蘭,&zk=0" title="紐西蘭上網WIFI">紐西蘭上網WIFI</a></li>
@@ -42,7 +42,7 @@
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq4" title="">其他地區</a></li>
 				</ul>
 			</li>
-			<li><a itemprop="url" href="Products.aspx?dq=dq5" title=""><span itemprop="name">非洲</span></a>
+			<li itemprop="name" content="非洲"><a itemprop="url" href="Products.aspx?dq=dq5" title="">非洲</a>
 				<ul>
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq5&mmd=南非,&zk=0" title="南非上網WIFI">南非上網WIFI</a></li>
 					<li itemprop="name"><a itemprop="url" href="Products.aspx?dq=dq5&mmd=毛里求斯,&zk=0" title="毛里求斯上網WIFI">毛里求斯上網WIFI</a></li>
@@ -53,7 +53,7 @@
 			</li>
 		</ul>
 	</li>
-	<li class="gj"><a itemprop="url" href="Cardproducts.aspx?lb=%E5%87%BA%E5%9C%8B%E4%B8%8A%E7%B6%B2%E9%9B%BB%E8%A9%B1%E5%8D%A1" title="網路國際電話卡"><span itemprop="name">網路國際電話卡</span></a>
+	<li class="gj" itemprop="name" content="網路國際電話卡"><a itemprop="url" href="Cardproducts.aspx?lb=%E5%87%BA%E5%9C%8B%E4%B8%8A%E7%B6%B2%E9%9B%BB%E8%A9%B1%E5%8D%A1" title="網路國際電話卡">網路國際電話卡</a>
 		<ul class="navbox" style="width:132px;">
 			<li itemprop="name"><a itemprop="url" href="Cardproducts.aspx?mmd=澳洲" title="澳洲電話卡">澳洲電話卡</a></li>
 			<li itemprop="name"><a itemprop="url" href="Cardproducts.aspx?mmd=美國" title="美國電話卡">美國電話卡</a></li>
@@ -69,14 +69,14 @@
 			<li itemprop="name"><a itemprop="url" href="Cardproducts.aspx?mmd=澳門" title="澳門電話卡">澳門電話卡</a></li>
 		</ul>
 	</li>
-	<li itemprop="name" class="sf"><a itemprop="url" href="charges.aspx" title="日本wifi分享器收費標準">收費標準</a></li>
-	<li itemprop="name" class="kh"><a itemprop="url" href="Customer.aspx" title="客戶服務"><span itemprop="name">客戶服務</span></a>
+	<li itemprop="name" content="收費標準" class="sf"><a itemprop="url" href="charges.aspx" title="日本wifi分享器收費標準">收費標準</a></li>
+	<li itemprop="name" content="客戶服務" class="kh"><a itemprop="url" href="Customer.aspx" title="客戶服務">客戶服務</a>
 		<ul class="ulli uli3 show2">
 			<li itemprop="name"><a itemprop="url" href="Customer.aspx" title="客戶服務">客戶服務</a></li>
 			<li itemprop="name"><a itemprop="url" href="Garden.aspx" title="客戶園地">客戶園地</a></li>
 		</ul>
 	</li>
-	<li itemprop="name" class="cj"><a itemprop="url" href="Problem.aspx" title="常見問題"><span itemprop="name">常見問題</span></a>
+	<li itemprop="name" content="常見問題" class="cj"><a itemprop="url" href="Problem.aspx" title="常見問題">常見問題</a>
 		<ul class="ulli uli2 show3">
 			<li itemprop="name"><a itemprop="url" href="Problem.aspx?fl=訂單問題" title="訂單問題">訂單問題</a></li>
 			<li itemprop="name"><a itemprop="url" href="Problem.aspx?fl=資費問題" title="資費問題">資費問題</a></li>
