@@ -1,6 +1,6 @@
 <nav id="menu">
     <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement">
-        <li itemprop="name" class="active">
+        <li itemprop="name" class="active" content="關於凡登">
             <a title="關於凡登" itemprop="url" href="#">關於凡登</a>
             <ul class="sf-js-enabled sf-arrows" style="display: none; touch-action: pan-y;">
                 <li itemprop="name" style="height: 100%">
@@ -14,7 +14,7 @@
                 </li>
             </ul>
         </li>
-        <li itemprop="name">
+        <li itemprop="name" content="身體整形">
             <a title="身體整形" itemprop="url" href="#">身體整形</a>
             <ul class="sf-js-enabled sf-arrows" style="display: none; touch-action: pan-y;">
                 <li itemprop="name" style="height: 100%">
@@ -37,7 +37,7 @@
                 </li>
             </ul>
         </li>
-        <li itemprop="name">
+        <li itemprop="name" content="臉部整形">
             <a title="臉部整形" itemprop="url" href="#">臉部整形</a>
             <ul class="sf-js-enabled sf-arrows" style="display: none; touch-action: pan-y;">
                 <li itemprop="name" style="height: 100%">
@@ -66,7 +66,7 @@
                 </li>
             </ul>
         </li>
-        <li itemprop="name">
+        <li itemprop="name" content="雷射/微整型">
             <a title="雷射/微整型" itemprop="url" href="#">雷射/微整型</a>
             <ul class="sf-js-enabled sf-arrows" style="display: none; touch-action: pan-y;">
                 <li itemprop="name" style="height: 100%">
@@ -98,7 +98,7 @@
         <li itemprop="name">
             <a title="分店資訊" itemprop="url" href="/store">分店資訊</a>
         </li>
-        <li itemprop="name">
+        <li itemprop="name" content="醫療團隊">
             <a title="醫療團隊" itemprop="url" href="#">醫療團隊</a>
             <ul class="sf-js-enabled sf-arrows" style="display: none; touch-action: pan-y;">
                 <li itemprop="name" style="height: 100%">
@@ -136,12 +136,12 @@
         <li itemprop="name">
             <a title="線上諮詢" itemprop="url" href="/contact?type=consultation">線上諮詢</a>
         </li>
-        <li itemprop="name" class="box" class="height:100%"><a title="告訴我們你的煩惱" itemprop="url" href="#">告訴我們你的煩惱<img src="/img/home/click.png" style="bottom: 45px;"></a>
+        <li itemprop="name" class="box" class="height:100%" content="關於凡登"><a title="告訴我們你的煩惱" itemprop="url" href="#">告訴我們你的煩惱<img src="/img/home/click.png" style="bottom: 45px;"></a>
             <ul style="display: none;">
-                <li itemprop="name">
+                <li>
                     <!-- 下拉內容 -->
                     <ol>
-                        <li itemprop="name">
+                        <li>
                             臉型問題
                             <ol>
                                 <li itemprop="name"><a title="顏面歪斜、不對稱" itemprop="url" href="/questionArticle/15">顏面歪斜、不對稱</a></li>
@@ -157,7 +157,7 @@
                                 <li itemprop="name"><a title="下巴後縮" itemprop="url" href="/questionArticle/44">下巴後縮</a></li>
                             </ol>
                         </li>
-                        <li itemprop="name">
+                        <li>
                             隆鼻專區
                             <ol>
                                 <li itemprop="name"><a title="鼻樑、山根太塌" itemprop="url" href="/questionArticle/10">鼻樑、山根太塌</a></li>
@@ -167,14 +167,14 @@
                                 <li itemprop="name"><a title="朝天鼻" itemprop="url" href="/questionArticle/14">朝天鼻</a></li>
                             </ol>
                         </li>
-                        <li itemprop="name">
+                        <li>
                             身體困擾
                             <ol>
                                 <li itemprop="name"><a title="小腿太粗（蘿蔔腿）" itemprop="url" href="/questionArticle/32">小腿太粗（蘿蔔腿）</a></li>
                                 <li itemprop="name"><a title="臀部下垂" itemprop="url" href="/questionArticle/33">臀部下垂</a></li>
                             </ol>
                         </li>
-                        <li itemprop="name">
+                        <li>
                             乳房專區
                             <ol>
                                 <li itemprop="name"><a title="產後乳房萎縮" itemprop="url" href="/questionArticle/29">產後乳房萎縮</a></li>
@@ -185,7 +185,7 @@
                                 <li itemprop="name"><a title="縮胸手術" itemprop="url" href="/questionArticle/40">縮胸手術</a></li>
                             </ol>
                         </li>
-                        <li itemprop="name">
+                        <li>
                             眼部專區
                             <ol>
                                 <li itemprop="name"><a title="大小眼、提眼瞼肌無力" itemprop="url" href="/questionArticle/5">大小眼、提眼瞼肌無力</a></li>
@@ -195,7 +195,7 @@
                                 <li itemprop="name"><a title="老年化雙眼皮" itemprop="url" href="/questionArticle/45">老年化雙眼皮</a></li>
                             </ol>
                         </li>
-                        <li itemprop="name">
+                        <li>
                             凹陷皺紋
                             <ol>
                                 <li itemprop="name"><a title="眉壓眼" itemprop="url" href="/questionArticle/8">眉壓眼</a></li>
@@ -214,7 +214,7 @@
                 <!-- 下拉內容 -->
             </ul>
         </li>
-        <li itemprop="name"><a itemprop="url" href="/site/search">&nbsp;</a></li>
+        <li><a href="/site/search">&nbsp;</a></li>
     </ul>
-    <a itemprop="url" id="mm"><i class="fa fa-bars"></i></a>
+    <a id="mm"><i class="fa fa-bars"></i></a>
 </nav>
