@@ -1,0 +1,36 @@
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "MedicalClinic",
+		"@id": "https://www.nu-vendome.com/",
+		"name": "雷德科技",
+		"url": "https://www.nu-vendome.com/",
+		"logo": "https://www.nu-vendome.com/img/common/logo.png",
+		"image": "https://www.nu-vendome.com/img/common/logo.png",		
+		"address": [{
+				"@type": "PostalAddress",
+				"streetAddress": "信義路三段149號3F",
+				"addressLocality": "台北市大安區",
+				"postalCode": "10658",
+				"addressCountry": "TW"
+			},
+			{
+				"@type": "PostalAddress",
+				"streetAddress": "文興路一段39號",
+				"addressLocality": "新竹縣竹北市",
+				"postalCode": "30272",
+				"addressCountry": "TW"
+			},
+            			{
+				"@type": "PostalAddress",
+				"streetAddress": "長榮路二段70號",
+				"addressLocality": "台南市東區",
+				"postalCode": "70143",
+				"addressCountry": "TW"
+			}
+		],
+		"description": "專業整形外科團隊、專屬麻醉專科團隊聯手，專精於拉皮及五官比例再造、正顎手術、削骨、隆乳、抽脂、自體脂肪移植等各式整形手術",
+		"telephone": ["(02)2703-8858", "(03)550-8362", "(06)511-9188"],
+		"sameAs": ["https://www.facebook.com/nu.vendome/", "https://plus.google.com/106941911604159730914","https://www.instagram.com/vendome.clinic.tw/","https://www.youtube.com/channel/UCVlJZVBF_nHLXGorr9LNBCw"]
+	}
+</script>
