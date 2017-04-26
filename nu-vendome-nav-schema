@@ -1,0 +1,220 @@
+<nav id="menu">
+    <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+        <li itemprop="name" content="關於凡登" class="active">
+            <a itemprop="url" href="#">關於凡登</a>
+            <ul class="sf-js-enabled sf-arrows" style="display: none; touch-action: pan-y;">
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/news/list/1">最新消息</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/news/list/2">學術活動</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/news/list/3">媒體採訪</a>
+                </li>
+            </ul>
+        </li>
+        <li itemprop="name" content="身體整形">
+            <a itemprop="url" href="#">身體整形</a>
+            <ul class="sf-js-enabled sf-arrows" style="display: none; touch-action: pan-y;">
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/13">狐臭手術</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/14">果凍矽膠隆乳</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/15">自體脂肪隆乳</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/16">威塑抽脂手術</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/55">腹部拉皮手術</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/19">miraDry微波除汗</a>
+                </li>
+            </ul>
+        </li>
+        <li itemprop="name" content="臉部整形">
+            <a itemprop="url" href="#">臉部整形</a>
+            <ul class="sf-js-enabled sf-arrows" style="display: none; touch-action: pan-y;">
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/56">雙眼皮手術 / 開眼頭手術</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/34">正顎手術</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/57">削骨手術</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/58">拉皮手術</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/23">下巴手術</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/59">無痕眼袋手術</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/60">隆鼻手術</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/61">自體脂肪豐頰</a>
+                </li>
+            </ul>
+        </li>
+        <li itemprop="name" content="雷射/微整型">
+            <a itemprop="url" href="#">雷射/微整型</a>
+            <ul class="sf-js-enabled sf-arrows" style="display: none; touch-action: pan-y;">
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/27">TR漾膚雷射</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/28">DPC水嫩光除毛</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/29">Qray FRX飛梭</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/30">玻尿酸</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/64">除皺小臉針</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/32">電波拉皮</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/surgeryArticle/33">超線音波拉皮</a>
+                </li>
+            </ul>
+        </li>
+        <li itemprop="name">
+            <a itemprop="url" href="/doctor/article">醫師專欄</a>
+        </li>
+        <li itemprop="name">
+            <a itemprop="url" href="/store">分店資訊</a>
+        </li>
+        <li itemprop="name" content="醫療團隊">
+            <a itemprop="url" href="#">醫療團隊</a>
+            <ul class="sf-js-enabled sf-arrows" style="display: none; touch-action: pan-y;">
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/doctor">醫師一覽</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/doctor/1">馮中和醫師</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/doctor/2">陳瑞鋒醫師</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/doctor/8">莊昆霖醫師</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/doctor/11">林彥斌醫師</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/doctor/12">蘇百川麻醉專科醫師</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/doctor/13">羅巧芬麻醉專科醫師</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/doctor/14">施明宏麻醉專科醫師</a>
+                </li>
+                <li itemprop="name" style="height: 100%">
+                    <a itemprop="url" href="/doctor/15">余漢東麻醉專科醫師</a>
+                </li>
+            </ul>
+        </li>
+        <li itemprop="name">
+            <a itemprop="url" href="/site/international">國際醫療</a>
+        </li>
+        <li itemprop="name">
+            <a itemprop="url" href="/contact?type=consultation">線上諮詢</a>
+        </li>
+        <li itemprop="name" content="告訴我們你的煩惱" class="box" class="height:100%"><a itemprop="url" href="#">告訴我們你的煩惱<img src="/img/home/click.png" style="bottom: 45px;"></a>
+            <ul style="display: none;">
+                <li>
+                    <!-- 下拉內容 -->
+                    <ol>
+                        <li>
+                            臉型問題
+                            <ol>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/15">顏面歪斜、不對稱</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/16">下顎突出（戽斗、月亮臉）</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/17">上顎突出（暴牙）</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/19">顴骨太高、顴骨突出</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/20">國字臉</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/34">嘴角下垂</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/35">唇色暗沉</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/36">嘴唇太薄</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/42">下巴太平</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/43">下巴太短</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/44">下巴後縮</a></li>
+                            </ol>
+                        </li>
+                        <li>
+                            隆鼻專區
+                            <ol>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/10">鼻樑、山根太塌</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/11">鼻翼太寬</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/12">鼻樑歪斜、鼻中膈彎曲</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/13">蒜頭鼻、蓮霧鼻</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/14">朝天鼻</a></li>
+                            </ol>
+                        </li>
+                        <li>
+                            身體困擾
+                            <ol>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/32">小腿太粗（蘿蔔腿）</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/33">臀部下垂</a></li>
+                            </ol>
+                        </li>
+                        <li>
+                            乳房專區
+                            <ol>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/29">產後乳房萎縮</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/30">乳頭太大、乳暈太大、乳暈顏色太深</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/37">乳房不對稱</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/38">二次隆乳手術</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/39">乳房重建</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/40">縮胸手術</a></li>
+                            </ol>
+                        </li>
+                        <li>
+                            眼部專區
+                            <ol>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/5">大小眼、提眼瞼肌無力</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/6">淚溝</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/7">眼距過寬</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/9">內雙眼皮</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/45">老年化雙眼皮</a></li>
+                            </ol>
+                        </li>
+                        <li>
+                            凹陷皺紋
+                            <ol>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/8">眉壓眼</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/21">額頭凹陷</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/22">蘋果肌凹陷</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/23">夫妻宮（太陽穴）凹陷</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/24">抬頭紋、皺眉紋、魚尾紋</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/25">法令紋、木偶紋</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/26">印地安紋</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/27">頸紋</a></li>
+                                <li itemprop="name"><a itemprop="url" href="/questionArticle/46">臉頰凹陷</a></li>
+                            </ol>
+                        </li>
+                    </ol>
+                </li>
+                <!-- 下拉內容 -->
+            </ul>
+        </li>
+        <li><a href="/site/search">&nbsp;</a></li>
+    </ul>
+    <a id="mm"><i class="fa fa-bars"></i></a>
+</nav>
