@@ -3,7 +3,7 @@
 		"@context": "http://schema.org",
 		"@type": "MedicalClinic",
 		"@id": "https://www.nu-vendome.com/",
-		"name": "雷德科技",
+		"name": "凡登整形外科",
 		"url": "https://www.nu-vendome.com/",
 		"logo": "https://www.nu-vendome.com/img/common/logo.png",
 		"image": "https://www.nu-vendome.com/img/common/logo.png",		
