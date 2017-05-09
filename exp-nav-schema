@@ -1,0 +1,47 @@
+<ul class="nav navbar-nav navbar-right sm"  itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+    <li itemprop="name" content="品牌塑造"><a itemprop="url" class="nav-to  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" title="brand" href="http://www.expup.com/tw/exp-brand">品牌塑造</a>
+        <ul class="dropdown-menu ">
+            <li itemprop="name" content="稽查市調"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" href="http://www.expup.com/tw/audit-survey">稽查市調</a>
+                <ul class="dropdown-menu ">
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/audit-survey/b2c-audit">B2C品牌稽查</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/audit-survey/b2b-audit">B2B品牌稽查</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/audit-survey/organization">品牌組織稽查</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/audit-survey/businessmodel-audit">商業模式稽查</a></li>
+                </ul>
+            </li>
+            <li itemprop="name" content="諮詢訓練"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" href="http://www.expup.com/tw/consult-training">諮詢訓練</a>
+                <ul class="dropdown-menu ">
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/consult-training/diagnosis">品牌診斷</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/consult-training/consult">品牌顧問輔導</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/consult-training/workshop">品牌工作營</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/consult-training/training">品牌教育訓練</a></li>
+                </ul>
+            </li>
+            <li itemprop="name" content="品牌發展"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" href="http://www.expup.com/tw/development">品牌發展</a>
+                <ul class="dropdown-menu ">
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/development/position">品牌定位</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/development/planning">品牌規劃企劃</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/development/marketing-strategy">品牌行銷策略</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/development/product-brand">產品品牌建構</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/development/business-model-plan">商業模式發展方案</a></li>
+                    <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/development/channels">市場及通路擴展方案</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li itemprop="name" content="品牌設計"><a itemprop="url" class="nav-to  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children" href="http://www.expup.com/tw/exp-design">品牌設計</a>
+        <ul class="dropdown-menu ">
+            <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/creative-design/brand-design">品牌設計執行</a></li>
+            <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/creative-design/cis">品牌CIS識別系統建置</a></li>
+            <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/creative-design/package-design">包裝設計</a></li>
+            <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/creative-design/web-design">網站設計架設</a></li>
+            <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/creative-design/shop-design">專櫃展店空間設計</a></li>
+            <li itemprop="name"><a itemprop="url" class=" menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/creative-design/marketing">品牌行銷執行</a></li>
+        </ul>
+    </li>
+    <li itemprop="name"><a itemprop="url" class="nav-to  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1603 current_page_item" href="http://www.expup.com/tw/exp-team">專業團隊</a></li>
+    <li itemprop="name"><a itemprop="url" class="nav-to  menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/exp-point-all">品牌觀點</a></li>
+    <li itemprop="name"><a itemprop="url" class="nav-to  menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/exp-project">輔導案例</a></li>
+    <li itemprop="name"><a itemprop="url" class="nav-to  menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/exp-customer">合作客戶</a></li>
+    <li itemprop="name"><a itemprop="url" class="nav-to  menu-item menu-item-type-post_type menu-item-object-page" href="http://www.expup.com/tw/exp-contact">聯絡我們</a></li>
+</ul>
