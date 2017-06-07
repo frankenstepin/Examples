@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+	{
+  	"@context": "http://schema.org",
+  	"@type": "ClothingStore",
+  	"address": [{
+    	"@type":"PostalAddress",
+    	"streetAddress":"敦化南路一段161巷64號",
+    	"addressLocality":"台北市大安區",
+    	"postalCode":"23145",
+    	"addressCountry":"TW"
+  	},{
+    	"@type":"PostalAddress",
+    	"streetAddress":"中山北路一段131號",
+    	"addressLocality":"台北市中山區",
+    	"postalCode":"23145",
+    	"addressCountry":"TW"
+    },{
+    	"@type":"PostalAddress",
+    	"streetAddress":"館前東路100號",
+    	"addressLocality":"新北市板橋區",
+    	"postalCode":"23145",
+    	"addressCountry":"TW"
+    }],
+  	"description": "東潮時裝西服為時尚圈、潮流圈甚至雅痞文青所推薦的第一品牌。專為東方男人設計，提供各式西裝組合、紳士單品、西服租借及造型搭配服務。各式風格如商務正裝、休閒雅痞至時尚宴會皆可搭配。",
+  	"name": "東潮時裝西服",
+  	"telephone": ["02-8773-3530","02-2567-7076","02-8951-3008"],
+    "image":"http://www.eastream.com.tw/uploads/9/6/2/3/9623381/published/logo-1.jpg?1495712002",
+  	"openingHours": "13:00-22:00",  	
+  	"sameAs" : [ "http://brand.eastream.com.tw/",
+    "https://www.facebook.com/mr.eastream/"]
+	}
+</script>
