@@ -1,0 +1,132 @@
+<ul id="topMain" class="nav nav-pills nav-main has-topBar" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+    <!-- 商品分類下拉 -->
+    <li class="dropdown" itemprop="name" content="">
+        <a id="menudown" class="hidden-lg dropdown-toggle" href="#">
+            <div class="hidden-lg" style="position: absolute;right: 0;z-index:1;width:50px;  height: 40px;line-height: 40px;text-align: center;"><i class="fa fa-angle-down"></i></div>
+        </a> <a class="dropdown" href="https://www.hlolo.com.tw/product/index.php">商品總覽<span class="hidden-xs">&nbsp;&nbsp;<i class="fa fa-angle-down"></i></span></a>
+        <ul class="dropdown-menu has-topBar">
+            <li class="dropdown" itemprop="name" content="本周新品"> <a itemprop="url" href="https://www.hlolo.com.tw/product/14">本周新品</a> </li>
+            <li class="dropdown" itemprop="name" content="好康專區"> <a itemprop="url" href="https://www.hlolo.com.tw/product/15">好康專區</a> </li>
+            <li class="dropdown" itemprop="name" content="好康湊運費專區"> <a itemprop="url" href="https://www.hlolo.com.tw/product/35">好康湊運費專區</a> </li>
+            <li class="dropdown" itemprop="name" content="日韓原裝【LUVIEW路薇兒】"> <a itemprop="url" href="https://www.hlolo.com.tw/product/7">日韓原裝【LUVIEW路薇兒】</a> </li>
+            <li class="dropdown" itemprop="name" content="【婭薇恩ALOVIN 】時尚塑身系">
+                <a id="menudown" class="hidden-lg dropdown-toggle" href="#">
+                    <div class="hidden-lg" style="position: absolute;right: 0;z-index:1;width:50px;  height: 40px;line-height: 40px;text-align: center;"><i class="fa fa-angle-right"></i></div>
+                </a> <a itemprop="url" href="https://www.hlolo.com.tw/product/3">【婭薇恩ALOVIN 】時尚塑身系<span class="hidden-xs" style="float: right;"><i class="fa fa-angle-right"></i></span></a>
+                <ul class="dropdown-menu has-topBar">
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/4">塑身美身衣</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/5">下盤美腿系</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/6">夜寑雕塑</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown" itemprop="name" content="歐洲原裝【BYPHASSE蓓昂斯】沙龍專業">
+                <a id="menudown" class="hidden-lg dropdown-toggle" href="#">
+                    <div class="hidden-lg" style="position: absolute;right: 0;z-index:1;width:50px;  height: 40px;line-height: 40px;text-align: center;"><i class="fa fa-angle-right"></i></div>
+                </a> <a itemprop="url" href="https://www.hlolo.com.tw/product/8">歐洲原裝【BYPHASSE蓓昂斯】沙龍專業<span class="hidden-xs" style="float: right;"><i class="fa fa-angle-right"></i></span></a>
+                <ul class="dropdown-menu has-topBar">
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/9">沙龍髮品</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/10">活顏保養</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/11">香氛洗沐</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/12">美體護膚</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/13">媽咪寶貝</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown" itemprop="name" content="法國原裝【MUJER 】"> <a itemprop="url" href="https://www.hlolo.com.tw/product/16">法國原裝【MUJER 】</a> </li>
+            <li class="dropdown" itemprop="name" content="義大利原裝【VITALCARE 蓓珂兒】 沙龍專業"> <a itemprop="url" href="https://www.hlolo.com.tw/product/17">義大利原裝【VITALCARE 蓓珂兒】 沙龍專業</a> </li>
+            <li class="dropdown" itemprop="name" content="【SEZY香姬】日韓流行服裝"> <a itemprop="url" href="https://www.hlolo.com.tw/product/26">【SEZY香姬】日韓流行服裝</a> </li>
+            <li class="dropdown" itemprop="name" content="【ARGAN雅根】日韓保養"> <a itemprop="url" href="https://www.hlolo.com.tw/product/28">【ARGAN雅根】日韓保養</a> </li>
+            <li class="dropdown" itemprop="name" content="原裝名品 天然有機"> <a itemprop="url" href="https://www.hlolo.com.tw/product/20">原裝名品&amp;天然有機</a> </li>
+            <li class="dropdown" itemprop="name" content="機能物著">
+                <a id="menudown" class="hidden-lg dropdown-toggle" href="#">
+                    <div class="hidden-lg" style="position: absolute;right: 0;z-index:1;width:50px;  height: 40px;line-height: 40px;text-align: center;"><i class="fa fa-angle-right"></i></div>
+                </a> <a itemprop="url" href="https://www.hlolo.com.tw/product/38">機能物著<span class="hidden-xs" style="float: right;"><i class="fa fa-angle-right"></i></span></a>
+                <ul class="dropdown-menu has-topBar">
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/39">塑身衣/機能塑身衣</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/40">塑身褲/提臀塑身褲</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/41">動感光波內衣</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/42">塑身褲襪</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown" itemprop="name" content="最IN美妝">
+                <a id="menudown" class="hidden-lg dropdown-toggle" href="#">
+                    <div class="hidden-lg" style="position: absolute;right: 0;z-index:1;width:50px;  height: 40px;line-height: 40px;text-align: center;"><i class="fa fa-angle-right"></i></div>
+                </a> <a itemprop="url" href="https://www.hlolo.com.tw/product/30">最IN美妝<span class="hidden-xs" style="float: right;"><i class="fa fa-angle-right"></i></span></a>
+                <ul class="dropdown-menu has-topBar">
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/47">臉部保養</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/48">口腔保養</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/49">有機保養品推薦</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/50">日本保養品</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/51">韓系保養品</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown" itemprop="name" content="美髮沙龍">
+                <a id="menudown" class="hidden-lg dropdown-toggle" href="#">
+                    <div class="hidden-lg" style="position: absolute;right: 0;z-index:1;width:50px;  height: 40px;line-height: 40px;text-align: center;"><i class="fa fa-angle-right"></i></div>
+                </a> <a itemprop="url" href="https://www.hlolo.com.tw/product/32">美髮沙龍<span class="hidden-xs" style="float: right;"><i class="fa fa-angle-right"></i></span></a>
+                <ul class="dropdown-menu has-topBar">
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/43">洗髮精</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/44">潤髮乳</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/45">護髮</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                    <li itemprop="name"> <a itemprop="url" class="menu_3" href="https://www.hlolo.com.tw/product/46">髮膜</a>
+                        <ul class="dropdown-menu has-topBar"> </ul>
+                    </li>
+                </ul>
+            </li>
+            <li class="dropdown" itemprop="name" content="G+鍺燃系"> <a itemprop="url" href="https://www.hlolo.com.tw/product/33">G+鍺燃系</a> </li>
+            <li class="dropdown" itemprop="name" content="美體保養"> <a itemprop="url" href="https://www.hlolo.com.tw/product/31">美體保養</a> </li>
+        </ul>
+    </li>
+    <!-- 商品分類下拉 -->
+    <li itemprop="name"> 
+        <a itemprop="url" href="https://www.hlolo.com.tw/modules/discount/discountsubject_main_all.php">活動專區</a> 
+    </li>
+    <li class="dropdown" itemprop="name" content="文章專區"> 
+        <a itemprop="url" href="https://www.hlolo.com.tw/article/1">文章專區</a> 
+    </li>
+    <li class="dropdown" itemprop="name" content="關於我們">
+        <!-- PAGES --><a itemprop="url" href="https://www.hlolo.com.tw/help/Aboutour.php?info_id=3">關於我們</a> 
+    </li>    
+    <li itemprop="name">
+        <!-- SHORTCODES --><a itemprop="url" href="https://www.hlolo.com.tw/article/2">常見QA</a> 
+    </li>
+</ul>
