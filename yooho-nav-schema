@@ -1,17 +1,14 @@
-<ul class="nav nav-p nav-pills" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
-     
-     
-        <li class="category-new category-new-1"></li><li itemprop="name" content="冷凍魚肉舖"> 
-         
+<ul class="nav nav-p nav-pills" itemscope itemtype="http://www.schema.org/SiteNavigationElement">          
+        <li class="category-new category-new-1"></li><li itemprop="name" content="冷凍魚肉舖">          
         <a itemprop="url" href="/category.php?id=30" id="nav-collapse" data-toggle="collapse" data-target="#cat-id-30" name="cat-id-nav-a"> <span class="cat-id-30_a"></span>冷凍魚肉舖<span id="cat-id-30_addText"></span></a>
         <ul class="cat-id-30" id="NonSeason-30" style="display: none;">
-                        <li itemprop="name" class="category-new category-new-1"></li><li itemprop="name" class="cat-id-30"><a itemprop="url" href="/category.php?id=104"> 看全部</a>
+                        <li class="category-new category-new-1"></li><li itemprop="name" class="cat-id-30"><a itemprop="url" href="/category.php?id=104"> 看全部</a>
                 <p class="supplierTextTop"></p>
             </li>  
                         <li itemprop="name" class="cat-id-30"><a itemprop="url" href="/category.php?id=1273"> 台灣香魚</a>
                 <p class="supplierTextTop"></p>
             </li>  
-                        <li itemprop="name" class="category-new category-new-2"></li><li itemprop="name" class="cat-id-30"><a itemprop="url" href="/category.php?id=1083"> 養殖好魚</a>
+                        <li class="category-new category-new-2"></li><li itemprop="name" class="cat-id-30"><a itemprop="url" href="/category.php?id=1083"> 養殖好魚</a>
                 <p class="supplierTextTop"></p>
             </li>  
                         <li itemprop="name" class="cat-id-30"><a itemprop="url" href="/category.php?id=31"> 海味鮮魚</a>
@@ -50,13 +47,13 @@
          
         <a itemprop="url" href="/category.php?id=1109" id="nav-collapse" data-toggle="collapse" data-target="#cat-id-1109" name="cat-id-nav-a"> <span class="cat-id-1109_a"></span>常溫柑仔店<span id="cat-id-1109_addText"></span></a>
         <ul class="cat-id-1109" id="NonSeason-1109" style="display: none;">
-                        <li itemprop="name" class="category-new category-new-1"></li><li itemprop="name" class="cat-id-1109"><a itemprop="url" href="/category.php?id=1115"> 看全部</a>
+                        <li class="category-new category-new-1"></li><li itemprop="name" class="cat-id-1109"><a itemprop="url" href="/category.php?id=1115"> 看全部</a>
                 <p class="supplierTextTop"></p>
             </li>  
                         <li itemprop="name" class="cat-id-1109"><a itemprop="url" href="/category.php?id=1215"> 茶葉/茶包</a>
                 <p class="supplierTextTop"></p>
             </li>  
-                        <li itemprop="name" class="category-new category-new-2"></li><li itemprop="name" class="cat-id-1109"><a itemprop="url" href="/category.php?id=1229"> 甜酒釀</a>
+                        <li class="category-new category-new-2"></li><li itemprop="name" class="cat-id-1109"><a itemprop="url" href="/category.php?id=1229"> 甜酒釀</a>
                 <p class="supplierTextTop"></p>
             </li>  
                         <li itemprop="name" class="cat-id-1109"><a itemprop="url" href="/category.php?id=1110"> 五穀．雜糧．米粉．麵線</a>
@@ -82,17 +79,17 @@
      
      
      
-        <li itemprop="name" class="category-new category-new-2"></li><li itemprop="name" content="蔬果街"> 
+        <li class="category-new category-new-2"></li><li itemprop="name" content="蔬果街"> 
          
         <a itemprop="url" href="/category.php?id=1000" id="nav-collapse" data-toggle="collapse" data-target="#cat-id-1000" name="cat-id-nav-a"> <span class="cat-id-1000_a"></span>蔬果街<span id="cat-id-1000_addText"></span></a>
         <ul class="cat-id-1000" id="NonSeason-1000" style="display: none;">
-                        <li itemprop="name" class="category-new category-new-1"></li><li itemprop="name" class="cat-id-1000"><a itemprop="url" href="/category.php?id=1014"> 有機轉型紅龍果</a>
+                        <li class="category-new category-new-1"></li><li itemprop="name" class="cat-id-1000"><a itemprop="url" href="/category.php?id=1014"> 有機轉型紅龍果</a>
                 <p class="supplierTextTop">台南善化榮果行</p>
             </li>  
                         <li itemprop="name" class="cat-id-1000"><a itemprop="url" href="/category.php?id=1125"> 拉拉山紅果甜蜜桃</a>
                 <p class="supplierTextTop">復興鄉拉拉山國勝果園</p>
             </li>  
-                        <li itemprop="name" class="category-new category-new-2"></li><li itemprop="name" class="cat-id-1000"><a itemprop="url" href="/category.php?id=1129"> 有機轉型黑美人西瓜</a>
+                        <li class="category-new category-new-2"></li><li itemprop="name" class="cat-id-1000"><a itemprop="url" href="/category.php?id=1129"> 有機轉型黑美人西瓜</a>
                 <p class="supplierTextTop">桃園春之谷有機農場</p>
             </li>  
                         <li itemprop="name" class="cat-id-1000"><a itemprop="url" href="/category.php?id=1191"> 梨山水蜜桃</a>
@@ -188,13 +185,13 @@
          
         <a itemprop="url" href="/category.php?id=114" id="nav-collapse" data-toggle="collapse" data-target="#cat-id-114" name="cat-id-nav-a"> <span class="cat-id-114_a"></span>漁畜街<span id="cat-id-114_addText"></span></a>
         <ul class="cat-id-114" id="NonSeason-114" style="display: none;">
-                        <li itemprop="name" class="category-new category-new-1"></li><li itemprop="name" class="cat-id-114"><a itemprop="url" href="/category.php?id=1206"> 紅玉雞滴雞精</a>
+                        <li class="category-new category-new-1"></li><li itemprop="name" class="cat-id-114"><a itemprop="url" href="/category.php?id=1206"> 紅玉雞滴雞精</a>
                 <p class="supplierTextTop">十八養場非基改飼料飼養雞</p>
             </li>  
                         <li itemprop="name" class="cat-id-114"><a itemprop="url" href="/category.php?id=1003"> 龍膽石斑</a>
                 <p class="supplierTextTop">嘉義東石海天</p>
             </li>  
-                        <li itemprop="name" class="category-new category-new-2"></li><li itemprop="name" class="cat-id-114"><a itemprop="url" href="/category.php?id=1207"> 煙燻臘肉、雞腿</a>
+                        <li class="category-new category-new-2"></li><li itemprop="name" class="cat-id-114"><a itemprop="url" href="/category.php?id=1207"> 煙燻臘肉、雞腿</a>
                 <p class="supplierTextTop">果木小薰</p>
             </li>  
                         <li itemprop="name" class="cat-id-114"><a itemprop="url" href="/category.php?id=1239"> 臘肉、香腸、豬腳</a>
@@ -242,13 +239,13 @@
          
         <a itemprop="url" href="/category.php?id=45" id="nav-collapse" data-toggle="collapse" data-target="#cat-id-45" name="cat-id-nav-a"> <span class="cat-id-45_a"></span>雜糧街<span id="cat-id-45_addText"></span></a>
         <ul class="cat-id-45" id="NonSeason-45" style="display: none;">
-                        <li itemprop="name" class="category-new category-new-1"></li><li itemprop="name" class="cat-id-45"><a itemprop="url" href="/category.php?id=1017"> 冠軍米&amp;麥</a>
+                        <li class="category-new category-new-1"></li><li itemprop="name" class="cat-id-45"><a itemprop="url" href="/category.php?id=1017"> 冠軍米&amp;麥</a>
                 <p class="supplierTextTop">竹北田爸爸</p>
             </li>  
                         <li itemprop="name" class="cat-id-45"><a itemprop="url" href="/category.php?id=1050"> 有機米&amp;糯&amp;雜糧</a>
                 <p class="supplierTextTop">花蓮邦查農場</p>
             </li>  
-                        <li itemprop="name" class="category-new category-new-2"></li><li itemprop="name" class="cat-id-45"><a itemprop="url" href="/category.php?id=1089"> 水賊林黑豆&amp;手摘綠豆</a>
+                        <li class="category-new category-new-2"></li><li itemprop="name" class="cat-id-45"><a itemprop="url" href="/category.php?id=1089"> 水賊林黑豆&amp;手摘綠豆</a>
                 <p class="supplierTextTop">雲林水賊林友善土地組合</p>
             </li>  
                         <li itemprop="name" class="cat-id-45"><a itemprop="url" href="/category.php?id=1141"> 無毒米&amp;玄米茶</a>
@@ -290,13 +287,13 @@
          
         <a itemprop="url" href="/category.php?id=66" id="nav-collapse" data-toggle="collapse" data-target="#cat-id-66" name="cat-id-nav-a"> <span class="cat-id-66_a"></span>特產街<span id="cat-id-66_addText"></span></a>
         <ul class="cat-id-66" id="NonSeason-66" style="display: none;">
-                        <li itemprop="name" class="category-new category-new-1"></li><li itemprop="name" class="cat-id-66"><a itemprop="url" href="/category.php?id=1082"> 素食常溫</a>
+                        <li class="category-new category-new-1"></li><li itemprop="name" class="cat-id-66"><a itemprop="url" href="/category.php?id=1082"> 素食常溫</a>
                 <p class="supplierTextTop">台中蓮廚</p>
             </li>  
                         <li itemprop="name" class="cat-id-66"><a itemprop="url" href="/category.php?id=1088"> 素食低溫</a>
                 <p class="supplierTextTop">台中蓮廚</p>
             </li>  
-                        <li itemprop="name" class="category-new category-new-2"></li><li itemprop="name" class="cat-id-66"><a itemprop="url" href="/category.php?id=1104"> 在地食材吐司&amp;糕點</a>
+                        <li class="category-new category-new-2"></li><li itemprop="name" class="cat-id-66"><a itemprop="url" href="/category.php?id=1104"> 在地食材吐司&amp;糕點</a>
                 <p class="supplierTextTop">美濃啖糕堂</p>
             </li>  
                         <li itemprop="name" class="cat-id-66"><a itemprop="url" href="/category.php?id=1158"> 幼兒牙餅</a>
@@ -350,13 +347,13 @@
          
         <a itemprop="url" href="/category.php?id=1223" id="nav-collapse" data-toggle="collapse" data-target="#cat-id-1223" name="cat-id-nav-a"> <span class="cat-id-1223_a"></span>飲品醬料街<span id="cat-id-1223_addText"></span></a>
         <ul class="cat-id-1223" id="NonSeason-1223" style="display: none;">
-                        <li itemprop="name" class="category-new category-new-1"></li><li itemprop="name" class="cat-id-1223"><a itemprop="url" href="/category.php?id=1187"> 有機茶&amp;天然苦茶油</a>
+                        <li class="category-new category-new-1"></li><li itemprop="name" class="cat-id-1223"><a itemprop="url" href="/category.php?id=1187"> 有機茶&amp;天然苦茶油</a>
                 <p class="supplierTextTop">新北三峽綠葉茶園</p>
             </li>  
                         <li itemprop="name" class="cat-id-1223"><a itemprop="url" href="/category.php?id=1225"> 天然果汁&amp;果醋</a>
                 <p class="supplierTextTop">台南陳稼莊</p>
             </li>  
-                        <li itemprop="name" class="category-new category-new-2"></li><li itemprop="name" class="cat-id-1223"><a itemprop="url" href="/category.php?id=67"> 醬油&amp;紅麴酒粕皂</a>
+                        <li class="category-new category-new-2"></li><li itemprop="name" class="cat-id-1223"><a itemprop="url" href="/category.php?id=67"> 醬油&amp;紅麴酒粕皂</a>
                 <p class="supplierTextTop">西螺農會</p>
             </li>  
                         <li itemprop="name" class="cat-id-1223"><a itemprop="url" href="/category.php?id=93"> 乾燥花草茶</a>
@@ -395,13 +392,13 @@
          
         <a itemprop="url" href="/category.php?id=1276" id="nav-collapse" data-toggle="collapse" data-target="#cat-id-1276" name="cat-id-nav-a"> <span class="cat-id-1276_a"></span>就要吃芒果<span id="cat-id-1276_addText"></span></a>
         <ul class="cat-id-1276" id="NonSeason-1276" style="display: none;">
-                        <li itemprop="name" class="category-new category-new-1"></li><li itemprop="name" class="cat-id-1276"><a itemprop="url" href="/category.php?id=1128"> 枋寮愛文芒果</a>
+                        <li class="category-new category-new-1"></li><li itemprop="name" class="cat-id-1276"><a itemprop="url" href="/category.php?id=1128"> 枋寮愛文芒果</a>
                 <p class="supplierTextTop">屏東枋寮大熊農場</p>
             </li>  
                         <li itemprop="name" class="cat-id-1276"><a itemprop="url" href="/category.php?id=1251"> 枋山愛文芒果</a>
                 <p class="supplierTextTop">枋山看海的芒果</p>
             </li>  
-                        <li itemprop="name" class="category-new category-new-2"></li><li itemprop="name" class="cat-id-1276"><a itemprop="url" href="/category.php?id=1270"> 貴妃芒果</a>
+                        <li class="category-new category-new-2"></li><li itemprop="name" class="cat-id-1276"><a itemprop="url" href="/category.php?id=1270"> 貴妃芒果</a>
                 <p class="supplierTextTop">台南柳營徐貴妃芒果</p>
             </li>  
                         <li itemprop="name" class="cat-id-1276"><a itemprop="url" href="/category.php?id=1272"> 農民黨芒果</a>
@@ -422,7 +419,7 @@
          
         <a itemprop="url" href="/category.php?id=1245" id="nav-collapse" data-toggle="collapse" data-target="#cat-id-1245" name="cat-id-nav-a"> <span class="cat-id-1245_a"></span>清真認證<span id="cat-id-1245_addText"></span></a>
         <ul class="cat-id-1245" id="NonSeason-1245" style="display: none;">
-                        <li itemprop="name" class="category-new category-new-1"></li><li itemprop="name" class="cat-id-1245"><a itemprop="url" href="/category.php?id=1246"> 雞鴨鵝熟食料理(清真認證)</a>
+                        <li class="category-new category-new-1"></li><li itemprop="name" class="cat-id-1245"><a itemprop="url" href="/category.php?id=1246"> 雞鴨鵝熟食料理(清真認證)</a>
                 <p class="supplierTextTop">雲林元進莊</p>
             </li>  
                     </ul>
