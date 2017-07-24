@@ -1,0 +1,38 @@
+<nav class="fusion-main-menu" aria-label="Main Menu">
+    <ul role="menubar" id="menu-main-menu" class="fusion-menu" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+        <li itemprop="name" content="最新消息" role="menuitem" id="menu-item-380" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-380 fusion-dropdown-menu"><a itemprop="url" href="https://www.weddingcar.idv.tw/category/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af/"><span class="menu-text">最新消息</span></a>
+            <ul role="menu" class="sub-menu">
+                <li itemprop="name" role="menuitem" id="menu-item-573" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-573 fusion-dropdown-submenu"><a itemprop="url" href="https://www.weddingcar.idv.tw/%e9%a0%90%e5%ae%9a%e7%a6%ae%e8%bb%8a%e6%96%b0%e4%ba%ba%e4%ba%ab%e7%8d%a8%e5%ae%b6%e5%ae%a2%e8%a3%bd%e8%bb%8a%e5%bd%a9%e5%85%8d%e8%b2%bb%e4%bd%bf%e7%94%a8/"><span>預定禮車新人享客製車彩免費使用</span></a></li>
+                <li itemprop="name" role="menuitem" id="menu-item-574" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-574 fusion-dropdown-submenu"><a itemprop="url" href="https://www.weddingcar.idv.tw/%e5%b9%b8%e7%a6%8f%e7%a6%ae%e8%bb%8a%e6%8c%87%e5%ae%9a%e8%bb%8a%e6%ac%be6%e9%83%a8%e4%ba%ab%e5%85%8d%e8%b2%bb%e5%8d%87%e7%b4%9a1%e9%83%a8%e4%b8%bb%e7%a6%ae%e8%bb%8a/"><span>指定車款6部,享免費升級1部主禮車</span></a></li>
+            </ul>
+        </li>
+        <li itemprop="name" content="禮車款式" role="menuitem" id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-130 fusion-dropdown-menu"><a itemprop="url" href="https://www.weddingcar.idv.tw/bmw/"><span class="menu-text">禮車款式</span></a>
+            <ul role="menu" class="sub-menu">
+                <li itemprop="name" role="menuitem" id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129 fusion-dropdown-submenu"><a itemprop="url" href="https://www.weddingcar.idv.tw/bmw/"><span>BMW車款</span></a></li>
+                <li itemprop="name" role="menuitem" id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128 fusion-dropdown-submenu"><a itemprop="url" href="https://www.weddingcar.idv.tw/benz/"><span>BENZ車款</span></a></li>
+                <li itemprop="name" role="menuitem" id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127 fusion-dropdown-submenu"><a itemprop="url" href="https://www.weddingcar.idv.tw/else/"><span>國產、特殊款禮車</span></a></li>
+            </ul>
+        </li>
+        <li itemprop="name" role="menuitem" id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a itemprop="url" href="https://www.weddingcar.idv.tw/related/"><span class="menu-text">禮車車彩</span></a></li>
+        <li itemprop="name" role="menuitem" id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><a itemprop="url" href="https://www.weddingcar.idv.tw/package/"><span class="menu-text">幸福專案</span></a></li>
+        <li itemprop="name" role="menuitem" id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a itemprop="url" href="https://www.weddingcar.idv.tw/photo/"><span class="menu-text">紀錄花絮</span></a></li>
+        <li itemprop="name" content="婚禮習俗" role="menuitem" id="menu-item-515" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-515 fusion-dropdown-menu"><a itemprop="url" href="https://www.weddingcar.idv.tw/category/%e5%a9%9a%e7%a6%ae%e7%bf%92%e4%bf%97/"><span class="menu-text">婚禮習俗</span></a>
+            <ul role="menu" class="sub-menu">
+                <li itemprop="name" role="menuitem" id="menu-item-517" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-517 fusion-dropdown-submenu"><a itemprop="url" href="https://www.weddingcar.idv.tw/wedding-car-color/"><span>結婚禮車顏色有沒有選擇限制或禁忌？</span></a></li>
+                <li itemprop="name" role="menuitem" id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-518 fusion-dropdown-submenu"><a itemprop="url" href="https://www.weddingcar.idv.tw/wedding-car-amount/"><span>結婚禮車數量和結婚禮車人數安排的眉角</span></a></li>
+                <li itemprop="name" role="menuitem" id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-519 fusion-dropdown-submenu"><a itemprop="url" href="https://www.weddingcar.idv.tw/wedding-red-envelopes/"><span>結婚禮車紅包及婚禮紅包行情全攻略</span></a></li>
+            </ul>
+        </li>
+        <li itemprop="name" role="menuitem" id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a itemprop="url" href="https://www.weddingcar.idv.tw/qa/"><span class="menu-text">問與答</span></a></li>
+        <li itemprop="name" class="fusion-custom-menu-item fusion-main-menu-search"><a itemprop="url" class="fusion-main-menu-icon" aria-hidden="true"></a>
+            <div class="fusion-custom-menu-item-contents">
+                <form role="search" class="searchform" method="get" action="https://www.weddingcar.idv.tw/">
+                    <div class="search-table">
+                        <div class="search-field"> <input type="text" value="" name="s" class="s" placeholder="搜尋..." required aria-required="true" aria-label="搜尋..." /></div>
+                        <div class="search-button"> <input type="submit" class="searchsubmit" value="&#xf002;" alt="搜尋" /></div>
+                    </div>
+                </form>
+            </div>
+        </li>
+    </ul>
+</nav>
