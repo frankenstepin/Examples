@@ -1,0 +1,110 @@
+<ul class="sp-megamenu-parent menu-fade hidden-sm hidden-xs" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+    <li itemprop="name" class="sp-menu-item  index_page current-item active"><a  itemprop="url" href="/">首頁</a></li>
+    <li itemprop="name" content="床墊/床架" class="sp-menu-item sp-has-child"><a  itemprop="url" href="/mattressbed.html"><i class="fa fa-bed"></i> 床墊/床架</a>
+        <div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 270px;">
+            <div class="sp-dropdown-inner">
+                <ul class="sp-dropdown-items">
+                    <li itemprop="name" content="獨立筒床墊" class="sp-menu-item sp-has-child"><a  itemprop="url" href="/mattressbed/pocketspringmattress.html"><i class="fa fa-bed"></i> 獨立筒床墊</a>
+                        <div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 270px;">
+                            <div class="sp-dropdown-inner">
+                                <ul class="sp-dropdown-items">
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/pocketspringmattress/singlemattress.html"><i class="fa fa-bed"></i> 單人獨立筒床墊(3.5*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/pocketspringmattress/doublemattress.html"><i class="fa fa-bed"></i> 雙人獨立筒床墊(5*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/pocketspringmattress/bigmattress.html"><i class="fa fa-bed"></i> 雙人加大獨立筒床(6*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/pocketspringmattress/kingmattress.html"><i class="fa fa-bed"></i> 雙人特大獨立筒床(6*7尺)</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li itemprop="name" content="乳膠床墊" class="sp-menu-item sp-has-child"><a  itemprop="url" href="/mattressbed/latexmattress.html"><i class="fa fa-bed"></i> 乳膠床墊</a>
+                        <div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 270px;">
+                            <div class="sp-dropdown-inner">
+                                <ul class="sp-dropdown-items">
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/latexmattress/singlemattress.html"><i class="fa fa-bed"></i> 單人乳膠床墊(3.5*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/latexmattress/doublemattress.html"><i class="fa fa-bed"></i> 雙人乳膠床墊(5*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/latexmattress/bigmattress.html"><i class="fa fa-bed"></i> 雙人加大乳膠床墊(6*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/latexmattress/kingmattress.html"><i class="fa fa-bed"></i> 雙人特大乳膠床墊(6*7尺)</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li itemprop="name" content="彈簧床墊" class="sp-menu-item sp-has-child"><a  itemprop="url" href="/mattressbed/springmattress.html"><i class="fa fa-bed"></i> 彈簧床墊</a>
+                        <div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 270px;">
+                            <div class="sp-dropdown-inner">
+                                <ul class="sp-dropdown-items">
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/springmattress/singlebed.html"><i class="fa fa-bed"></i> 單人彈簧床墊(3.5*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/springmattress/doublebed.html"><i class="fa fa-bed"></i> 雙人彈簧床墊(5*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/springmattress/bigbed.html"><i class="fa fa-bed"></i> 雙人加大彈簧床墊(6*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/springmattress/kingbed.html"><i class="fa fa-bed"></i> 雙人特大彈簧床墊(6*7尺)</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li itemprop="name" content="床架/床組" class="sp-menu-item sp-has-child"><a  itemprop="url" href="/mattressbed/bed.html"><i class="fa fa-bed"></i> 床架/床組</a>
+                        <div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 270px;">
+                            <div class="sp-dropdown-inner">
+                                <ul class="sp-dropdown-items">
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/bed/singlebed.html"><i class="fa fa-bed"></i> 單人床組(3.5*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/bed/doublebed.html"><i class="fa fa-bed"></i> 雙人床組(5*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/bed/bigbed.html"><i class="fa fa-bed"></i> 雙人加大床組(6*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/bed/kingbed.html"><i class="fa fa-bed"></i> 雙人特大床組(6*7尺)</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li itemprop="name" content="馬毛床墊" class="sp-menu-item sp-has-child"><a  itemprop="url" href="/mattressbed/horsehairmattress.html"><i class="fa fa-bed"></i> 馬毛床墊</a>
+                        <div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 270px;">
+                            <div class="sp-dropdown-inner">
+                                <ul class="sp-dropdown-items">
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/horsehairmattress/singlebed.html"><i class="fa fa-bed"></i> 單人馬毛床墊(3.5*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/horsehairmattress/doublebed.html"><i class="fa fa-bed"></i> 雙人馬毛床墊(5*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/horsehairmattress/bigbed.html"><i class="fa fa-bed"></i> 雙人加大馬毛床墊(6*6.2尺)</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/horsehairmattress/kingbed.html"><i class="fa fa-bed"></i> 雙人特大馬毛床墊(6*7尺)</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li itemprop="name" class="sp-menu-item sp-has-child"><a  itemprop="url" href="/mattressbed/bedding.html"><i class="fa fa-bed"></i> 寢具</a>
+                        <div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 270px;">
+                            <div class="sp-dropdown-inner">
+                                <ul class="sp-dropdown-items">
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/bedding/pillow.html">枕頭</a></li>
+                                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/bedding/cleaningpad.html">保潔墊</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/mattressbed/sale.html"><i class="fa fa-truck"></i> 出清專區</a></li>
+                </ul>
+            </div>
+        </div>
+    </li>
+    <li itemprop="name" class="sp-menu-item sp-has-child"><a  itemprop="url" href="/testimonials.html"><i class="fa fa-thumbs-up"></i> 客戶推薦</a>
+        <div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 270px;">
+            <div class="sp-dropdown-inner">
+                <ul class="sp-dropdown-items">
+                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/testimonials/recommended-offer.html">推薦優惠活動</a></li>
+                </ul>
+            </div>
+        </div>
+    </li>
+    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/traceability-management.html"><i class="fa fa-file-text"></i> 溯源管理</a></li>
+    <li itemprop="name" content="床墊知識" class="sp-menu-item sp-has-child"><a  itemprop="url" href="/bed-knowledge.html"><i class="fa fa-info"></i> 床墊知識</a>
+        <div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 270px;">
+            <div class="sp-dropdown-inner">
+                <ul class="sp-dropdown-items">
+                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/bed-knowledge/mainblog01.html"><i class="fa fa-star"></i> 買床墊推薦必看資訊如何選擇一張好睡的床墊六個您想要了解的事</a></li>
+                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/bed-knowledge/mainblog2.html"><i class="fa fa-star"></i> 買床墊推薦必看資訊耐用床墊的三大判斷準則</a></li>
+                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/bed-knowledge/mainblog3.html"><i class="fa fa-star"></i> 床墊推薦學習知識床墊黏著劑的危害，您買的床墊使用何種黏著劑啊？</a></li>
+                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/bed-knowledge/mainblog4.html"><i class="fa fa-star"></i> 睡眠知識除了一張好睡的床墊——如何擺脫數羊的日子培養10個好的睡眠習慣</a></li>
+                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/bed-knowledge/mainblog5.html"><i class="fa fa-star"></i> 什麼是段落式獨立筒床墊？段落式獨立筒床墊的優點是什麼？</a></li>
+                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/bed-knowledge/bed-choose.html"><i class="fa fa-magic"></i> 如何挑選床墊</a></li>
+                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/bed-knowledge/mattress-material-knowlege.html"><i class="fa fa-magic"></i> 床墊材質知識</a></li>
+                    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/bed-knowledge/bed-knowlege-share.html"><i class="fa fa-magic"></i> 床墊知識分享</a></li>
+                </ul>
+            </div>
+        </div>
+    </li>
+    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/about-derek.html"><i class="fa fa-certificate"></i> 關於德瑞克名床</a></li>
+    <li itemprop="name" class="sp-menu-item"><a  itemprop="url" href="/bed-choose.html"><i class="fa fa-bolt"></i> 選床小幫手</a></li>
+</ul>
