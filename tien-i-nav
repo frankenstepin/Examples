@@ -1,0 +1,46 @@
+<nav class="cd-nav">
+    <ul id="cd-primary-nav" class="cd-primary-nav is-fixed" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+        <li itemprop="name" content="Products" class="has-children" id="product_link">
+            <a itemprop="url" href="/products" rel="/products" class="">Products</a>
+            <ul class="cd-nav-gallery is-hidden">
+                <li class="go-back"><a href="#0">&lt;&lt; Back to Menu</a></li>
+                <!--<li itemprop="name"> <a itemprop="url" class="cd-nav-item" href="/products" title="All Products"><img src="/images/pro/top_01.jpg" alt="All Products"><h3>All Products</h3></a></li>-->
+                <li itemprop="name"> <a itemprop="url" class="cd-nav-item" href="/category/1-socket-wrench-" title="Socket Wrench "><img src="/img/Product_title/top_02.jpg" alt="Socket Wrench "><h3>Socket Wrench </h3></a></li>
+                <li itemprop="name"> <a itemprop="url" class="cd-nav-item" href="/category/2-impact-socket-impact-wrench" title="Impact Socket - Impact Wrench"><img src="/img/Product_title/top_03.jpg" alt="Impact Socket - Impact Wrench"><h3>Impact Socket - Impact Wrench</h3></a></li>
+                <li itemprop="name"> <a itemprop="url" class="cd-nav-item" href="/category/202-air-chisel-air-hammer-bits" title="Air Chisel - Air Hammer Bits"><img src="/img/Product_title/top_04.jpg" alt="Air Chisel - Air Hammer Bits"><h3>Air Chisel - Air Hammer Bits</h3></a></li>
+                <li itemprop="name"> <a itemprop="url" class="cd-nav-item" href="/category/3-automotive-tools" title="Automotive Tools"><img src="/img/Product_title/automotve-tool-200x59-icon(1).jpg" alt="Automotive Tools"><h3>Automotive Tools</h3></a></li>
+                <li itemprop="name"> <a itemprop="url" class="cd-nav-item" href="/category/4-tube-box-spanner-wrench" title="Tube Box Spanner Wrench"><img src="/img/Product_title/top_06.jpg" alt="Tube Box Spanner Wrench"><h3>Tube Box Spanner Wrench</h3></a></li>
+                <li itemprop="name"> <a itemprop="url" class="cd-nav-item" href="/category/312-tools-kit" title="Tools Kit"><img src="/img/Product_title/tools-kit-icon.jpg" alt="Tools Kit"><h3>Tools Kit</h3></a></li>
+                <div class="clean"></div>
+            </ul>
+        </li>
+        <li itemprop="name" content="About Tien-i" class="has-children" id="about_link">
+            <a itemprop="url" href="/about" rel="/about" class=""> About Tien-i</a>
+            <ul class="cd-secondary-nav about about_menu is-hidden">
+                <li class="go-back"><a href="#0">&lt;&lt; Back to Menu</a></li>
+                <li itemprop="name"> <a itemprop="url" href="/about#a1">Tien-I Profile</a></li>
+                <li itemprop="name"> <a itemprop="url" href="/about#a2">Tien-I Story</a></li>
+                <li itemprop="name"> <a itemprop="url" href="/about#a3">Some of Our Customers</a></li>
+                <li itemprop="name"> <a itemprop="url" href="/about#a4">Message from founder</a></li>
+            </ul>
+        </li>
+        <li itemprop="name" content="Blog" class="has-children" id="blog_link">
+            <a itemprop="url" href="/blog_list" rel="/blog_list">Blog</a>
+            <ul class="cd-secondary-nav is-hidden blog">
+                <li class="go-back"><a href="#0">&lt;&lt; Back to Menu</a></li>
+                <li itemprop="name"> <a itemprop="url" href="/blog_list">Blog</a></li>
+                <li itemprop="name"> <a itemprop="url" href="/news_list">News</a></li>
+            </ul>
+        </li>
+        <li itemprop="name" content="Manufacturing" class="has-children" id="service_link">
+            <a itemprop="url" href="/services" rel="/services" class="">Manufacturing</a>
+            <ul class="cd-secondary-nav oem is-hidden">
+                <li class="go-back"><a href="#0">&lt;&lt; Back to Menu</a></li>
+                <li itemprop="name"> <a itemprop="url" href="/services" rel="/services">Manufacturing</a></li>
+                <li itemprop="name"> <a itemprop="url" href="/quality" rel="/quality">Quality</a></li>
+            </ul>
+        </li>
+        <li itemprop="name"> <a itemprop="url" href="//goo.gl/vBs4j8" target="_blank">Download</a></li>
+        <li itemprop="name" class="forweb"><a itemprop="url" href="/contact">Contact Tien-I</a></li>     
+    </ul>
+</nav>
