@@ -1,0 +1,69 @@
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+        <li  itemprop="name" class="dropdown">
+            <a itemprop="url" href="javascript:void(0);" class="dropdown-toggle js-activated" data-toggle="dropdown">公司簡介</a>
+            <ul class="dropdown-menu">
+                <li  itemprop="name"> <a itemprop="url" href="about.php?sn=1">公司簡介</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="about.php?sn=2">歷史記事</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="about.php?sn=3">原廠認證</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="about.php?sn=4">得獎訊息</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="https://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;j=4d3b45254547405732333b644f3f39620637143295f374122222222663b3c2726472j00" target="_blank">加入我們</a> </li>
+            </ul>
+        </li>
+        <li  itemprop="name" class="dropdown">
+            <a itemprop="url" href="javascript:void(0);" class="dropdown-toggle js-activated" data-toggle="dropdown">解決方案</a>
+            <ul class="dropdown-menu">
+                <li  itemprop="name"> <a itemprop="url" href="solution.php?PID=1">企業通訊與協作終端</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="solution.php?PID=3">企業通訊與協作基礎設施</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="solution.php?PID=2">會議解決方案</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="solution.php?PID=4">會議室影音多媒體</a> </li>
+            </ul>
+        </li>
+        <li  itemprop="name" class="dropdown">
+            <a itemprop="url" href="javascript:void(0);" class="dropdown-toggle js-activated" data-toggle="dropdown">產品介紹</a>
+            <!-- Resource id #18 -->
+            <ul class="dropdown-menu">
+                <li  itemprop="name"> <a itemprop="url" href="products.php?PID=1">視訊會議設備</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="products.php?PID=6">語音與整合通訊</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="products.php?PID=8">行動視訊</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="products.php?PID=12">會議室多媒體影音控制系統</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="products.php?PID=16">麥克風會議系統</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="products.php?PID=26">通訊型麥克風</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="products.php?PID=14">專業商用揚聲器</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="products.php?PID=10">電話會議產品</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="products.php?PID=21">無線互動簡報分享</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="products.php?PID=22">影像錄製串流與隨選播放</a> </li>
+            </ul>
+        </li>
+        <li  itemprop="name" class="dropdown">
+            <a itemprop="url" href="javascript:void(0);#" class="dropdown-toggle js-activated" data-toggle="dropdown">圓方服務</a>
+            <ul class="dropdown-menu">
+                <li  itemprop="name"> <a itemprop="url" href="service.php?sn=6">維護與保固</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="service.php?sn=10">雲端會議室租賃服務</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="service.php?sn=12">視訊會議室租賃服務</a> </li>
+            </ul>
+        </li>
+        <li  itemprop="name" class="dropdown">
+            <a itemprop="url" href="javascript:void(0);" class="dropdown-toggle js-activated" data-toggle="dropdown">案例分享</a>
+            <ul class="dropdown-menu">
+                <li  itemprop="name"> <a itemprop="url" href="case.php?PID=4">政府單位</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="case.php?PID=1">製造業</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="case.php?PID=2">服務業</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="case.php?PID=3">醫療業</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="case.php?PID=6">學校</a> </li>
+                <li  itemprop="name"> <a itemprop="url" href="case.php?PID=5">跨國建置案例</a> </li>
+            </ul>
+        </li>
+        <li  itemprop="name" class="dropdown search-form">
+            <a itemprop="url" href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i></a>
+            <ul class="dropdown-menu dropdown-menu-right">
+                <li  itemprop="name">
+                    <form class="input-group" method="POST" id="search-form">
+                        <input type="text" class="form-control" name="search_keyword" placeholder="產品搜尋">
+                        <span class="input-group-btn"><button class="btn btn-default" id="search_btn"><i class="fa fa-search"></i></button></span>
+                    </form>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
