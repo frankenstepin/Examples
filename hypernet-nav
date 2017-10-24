@@ -1,6 +1,6 @@
-<div class="navbar-collapse collapse">
+<div class="navbar-collapse collapse" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
     <ul class="nav navbar-nav">
-        <li  itemprop="name" class="dropdown">
+        <li class="dropdown">
             <a itemprop="url" href="javascript:void(0);" class="dropdown-toggle js-activated" data-toggle="dropdown">公司簡介</a>
             <ul class="dropdown-menu">
                 <li  itemprop="name"> <a itemprop="url" href="about.php?sn=1">公司簡介</a> </li>
@@ -10,7 +10,7 @@
                 <li  itemprop="name"> <a itemprop="url" href="https://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;j=4d3b45254547405732333b644f3f39620637143295f374122222222663b3c2726472j00" target="_blank">加入我們</a> </li>
             </ul>
         </li>
-        <li  itemprop="name" class="dropdown">
+        <li class="dropdown">
             <a itemprop="url" href="javascript:void(0);" class="dropdown-toggle js-activated" data-toggle="dropdown">解決方案</a>
             <ul class="dropdown-menu">
                 <li  itemprop="name"> <a itemprop="url" href="solution.php?PID=1">企業通訊與協作終端</a> </li>
@@ -19,7 +19,7 @@
                 <li  itemprop="name"> <a itemprop="url" href="solution.php?PID=4">會議室影音多媒體</a> </li>
             </ul>
         </li>
-        <li  itemprop="name" class="dropdown">
+        <li class="dropdown">
             <a itemprop="url" href="javascript:void(0);" class="dropdown-toggle js-activated" data-toggle="dropdown">產品介紹</a>
             <!-- Resource id #18 -->
             <ul class="dropdown-menu">
@@ -35,7 +35,7 @@
                 <li  itemprop="name"> <a itemprop="url" href="products.php?PID=22">影像錄製串流與隨選播放</a> </li>
             </ul>
         </li>
-        <li  itemprop="name" class="dropdown">
+        <li  class="dropdown">
             <a itemprop="url" href="javascript:void(0);#" class="dropdown-toggle js-activated" data-toggle="dropdown">圓方服務</a>
             <ul class="dropdown-menu">
                 <li  itemprop="name"> <a itemprop="url" href="service.php?sn=6">維護與保固</a> </li>
@@ -43,7 +43,7 @@
                 <li  itemprop="name"> <a itemprop="url" href="service.php?sn=12">視訊會議室租賃服務</a> </li>
             </ul>
         </li>
-        <li  itemprop="name" class="dropdown">
+        <li class="dropdown">
             <a itemprop="url" href="javascript:void(0);" class="dropdown-toggle js-activated" data-toggle="dropdown">案例分享</a>
             <ul class="dropdown-menu">
                 <li  itemprop="name"> <a itemprop="url" href="case.php?PID=4">政府單位</a> </li>
