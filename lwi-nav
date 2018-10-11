@@ -1,0 +1,40 @@
+<nav role="navigation">
+    <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+      <li class="" style="opacity: 1; display: list-item; transform-origin: 50% 50% 0px;">
+        <div itemprop="name" class="menuCap"><a itemprop=url href="about.php" class="menuMain" style="opacity: 1;"> About Us </a></div>
+      </li>
+      <li class="" style="opacity: 1; display: list-item; transform-origin: 50% 50% 0px;">
+        <div itemprop="name" class="menuCap"><a itemprop=url href="#" class="menuMain" style="opacity: 1;"> Solutions </a>
+          <div itemprop="name" class="menuList">
+            <div itemprop="name" class="menuDetail"><a itemprop=url href="solution_small.php" class="" style="opacity: 1;"> Solar Home System </a></div>
+            <div itemprop="name" class="menuDetail"><a itemprop=url href="solution_big.php" class="" style="opacity: 1;"> Solar Power System </a></div>
+          </div>
+        </div>
+      </li>
+      <li class="" style="opacity: 1; display: list-item; transform-origin: 50% 50% 0px;">
+        <div itemprop="name" class="menuCap"> <a itemprop=url href="javascript:void(0)" class="menuMain" style="opacity: 1;"> Product </a>
+          <div itemprop="name" class="menuList">
+                        <div itemprop="name" class="menuDetail"><a itemprop=url href="product_list.php?PKey=14" class="" style="opacity: 1;">Solar Battery</a></div>
+                        <div itemprop="name" class="menuDetail"><a itemprop=url href="product_list.php?PKey=15" class="" style="opacity: 1;">Deep Cycle Battery</a></div>
+                        <div itemprop="name" class="menuDetail"><a itemprop=url href="product_list.php?PKey=16" class="" style="opacity: 1;">UPS Battery</a></div>
+                        <div itemprop="name" class="menuDetail"><a itemprop=url href="product_list.php?PKey=17" class="" style="opacity: 1;">Motorcycle Battery</a></div>
+                        <div itemprop="name" class="menuDetail"><a itemprop=url href="product_list.php?PKey=9" class="" style="opacity: 1;">Solar Home System</a></div>
+                        <div itemprop="name" class="menuDetail"><a itemprop=url href="product_list.php?PKey=10" class="" style="opacity: 1;">Solar Inverter/UPS</a></div>
+                        <div itemprop="name" class="menuDetail"><a itemprop=url href="product_list.php?PKey=11" class="" style="opacity: 1;">Solar Panel</a></div>
+                        <div itemprop="name" class="menuDetail"><a itemprop=url href="product_list.php?PKey=12" class="" style="opacity: 1;">Charger/Tester</a></div>
+                      </div>
+        </div>
+      </li>
+      <li class="" style="opacity: 1; display: list-item; transform-origin: 50% 50% 0px;">
+        <div itemprop="name" class="menuCap"><a itemprop=url href="#" class="menuMain" style="opacity: 1;"> Blog </a>
+          <div itemprop="name" class="menuList">
+            <div itemprop="name" class="menuDetail"><a itemprop=url href="project.php" class="" style="opacity: 1;"> Project </a></div>
+            <div itemprop="name" class="menuDetail"><a itemprop=url href="learning.php" class="" style="opacity: 1;"> Learning </a></div>
+          </div>
+        </div>
+      </li>
+      <li class="" style="opacity: 1; display: list-item; transform-origin: 50% 50% 0px;">
+        <div itemprop="name" class="menuCap"><a itemprop=url href="contact.php" class="menuMain" style="opacity: 1;"> Contact </a></div>
+      </li>
+    </ul>
+  </nav>
